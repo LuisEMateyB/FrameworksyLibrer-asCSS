@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+		/*Header*/
+
+body{
+	background: #782D33;
+}
+
+header{
+	background: #EEEEEE;
+	color:#fff;
+}
+
+nav{
+	background-color:#F29C44;
+	color:black;	
+}
+
+section{
+	background:#EEEEEE; 
+}
+
+.img-logo{
+	width:100%;
+    margin-bottom: 20px;
+}
+
+.mar{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.img-top {
+	width:100%;
+}
+
+.img-top1 {
+	width:100%
+}
+
+textarea{
+	float: right;
+}
+.zaid{
+	margin-top:20px;
+}
+
+.menu li a{
+	color: black;
+}
+
+.icon-1{
+	margin-top:10%;
+}

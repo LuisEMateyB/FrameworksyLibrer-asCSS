@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../img/cosina4.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	width: 100%;
+	background-attachment: fixed;
+	}
+
+ .color{
+	background-color: #3E5270;
+	background: rgba(118, 144, 169, 0.8);
+	}
+
+
+			/*Header*/
+ h5{
+	color:white;
+	margin-top:10px;
+	margin-bottom:35px;
+	margin-left:60px;
+	}
+
+ h1{
+	color: white;
+	}
+
+.text-1{
+	float: left;
+	}
+
+
+			/*Aside*/
+
+.Asid-1{
+	border-radius: 4px 4px 4px 4px;
+	opacity: 0.8;
+    }
+
+.bott1{
+	background-color: palevioletred;
+    }
+			/*Menu 2*/
+
+  a{
+	color: deeppink;
+	}
+
+.redi{
+	border-radius: 4px 4px 4px 4px;
+	}
+
+
+ h6{
+	color:deeppink;
+	margin-left:10px;
+	}
+
+
+			/*Articulos*/
+
+.Arti-1{
+	background-color: aqua;
+	border-radius: 4px 4px 4px 4px;
+	}
+
+  p{
+	margin-top: 10px;
+	}
+
+
+.Top-1{
+	margin-top:20px;
+	border-radius: 4px 4px 4px 4px;
+    }
+
+ .dp{
+	border-radius: 4px 4px 4px 4px;
+	}
+
+ .pp{
+	color:deeppink;
+	}
+
+.img-top{
+	width: 100%;
+	}
+
+.roe{
+	border-radius: 4px 4px 4px 4px;
+   }
+
+.tex1{
+	float: right;
+	margin-right:50px;
+	}
+
+.bott{
+	margin-top:1px;
+	border-radius: 4px 4px 4px 4px;
+	background-color: palevioletred;
+}
